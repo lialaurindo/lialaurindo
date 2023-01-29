@@ -1,4 +1,4 @@
-<h1 align="left"> Lia Laurindo </h1>
+<h1 align="right"> Lia Laurindo </h1>
 
 <p align="right"> 
  Sou estudante de Análise e Desenvolvimento de Sistemas
