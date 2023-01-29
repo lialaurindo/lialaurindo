@@ -2,19 +2,12 @@
 
 <p align="right"> 
 Sou estudante de Análise e Desenvolvimento de Sistemas e também me aplico aos estudos de programação para Back-End. 
-</p>
-
----
-<p align="right">
 Fui aluna na Turma 16 da Reprograma e atualmente faço parte da turma 61 da Generation Brasil.
 </p>
-
-
 
 ---
 
 <h4 align="left"> Somos o código do tempo </h4>
-
 
 ---- 
 
