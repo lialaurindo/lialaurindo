@@ -1,11 +1,13 @@
 <h1 align="left"> Lia Laurindo </h1>
 
 <p align="right"> 
-Sou estudante de Análise e Desenvolvimento de Sistemas e também me aplico aos estudos de programação para Back-End. 
-Fui aluna na Turma 16 da Reprograma e atualmente faço parte da turma 61 da Generation Brasil.
+ Sou estudante de Análise e Desenvolvimento de Sistemas
+ <br> e também me aplico aos estudos de programação 
+  <br>para Back-End. Fui aluna na Turma 16 da Reprograma 
+ <br> e atualmente faço parte da turma 61 da Generation Brasil.
 </p>
 
----
+<br>
 
 <h4 align="left"> Somos o código do tempo </h4>
 
