@@ -24,4 +24,4 @@
 <h4 align="right"> e ainda </h4>
 
 
- <img align="right" src="element2.gif" alt="drawing" width="500" height="200"/><img align="right" src="element2.gif" alt="drawing" width="500" height="200"/>
+ <img align="right" src="element2.gif" alt="drawing" width="500" height="180"/><img align="right" src="element2.gif" alt="drawing" width="500" height="180"/>
