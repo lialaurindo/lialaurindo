@@ -8,7 +8,7 @@
 </p>
 
 <div align="right">
-  <a href="https://github.com/lialaurindo"> <img align ="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=lialaurindo&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&text_color=FFFAFA&title_color=FFFAFA"/> <img align ="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lialaurindo&layout=compact&langs_count=7&theme=merko&hide_border=true&bg_color=000000&text_color=FFFAFA&title_color=FFFAFA"/>
+  <a href="https://github.com/lialaurindo"> <img align ="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=lialaurindo&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&text_color=FFFAFA&title_color=FFFAFA"/> <img align ="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lialaurindo&layout=compact&langs_count=7&theme=merko&hide_border=true&bg_color=000000&text_color=FFFAFA&title_color=FFFAFA"/>
  </div>
 
 
