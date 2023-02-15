@@ -13,15 +13,15 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e também me aplico aos
 
 
 <br>
-<h4 align="left"> Somos o código do tempo </h4>
+  <h3 align="left"> <b>Somos o código do tempo </b></h3>
 
  ##
 
-<h4 align="center"> e além </h4>
+<h3 align="center"> <b><i> e além </i></b></h3>
 
  ##
 
-<h4 align="right"> e ainda </h4>
+  <h3 align="right"> <b> e ainda </b></h3>
 
 
  <img align="right" src="element2.gif" alt="drawing" width="400" height="200"/><img align="right" src="element2.gif" alt="drawing" width="400" height="200"/>
