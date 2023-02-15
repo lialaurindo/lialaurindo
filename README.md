@@ -13,7 +13,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e também me aplico aos
 
 
 <br>
-  <h3 align="left"> <b>Somos o código do tempo </b></h3>
+  <h3 align="left"> <b><i> Somos o código do tempo </i></b></h3>
 
  ##
 
@@ -21,7 +21,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e também me aplico aos
 
  ##
 
-  <h3 align="right"> <b> e ainda </b></h3>
+  <h3 align="right"> <b><i> e ainda </i></b></h3>
 
 
  <img align="right" src="element2.gif" alt="drawing" width="400" height="200"/><img align="right" src="element2.gif" alt="drawing" width="400" height="200"/>
