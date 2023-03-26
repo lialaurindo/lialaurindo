@@ -2,7 +2,7 @@
 <h1 align="right"> Lia Laurindo </h1>
 
 <p align="right"> 
-<br>Sou graduanda em Análise e Desenvolvimento de Sistemas
+<br>Graduanda em Análise e Desenvolvimento de Sistemas
 <br>e também me aplico aos estudos de programação para Back-End. 
 <br>Fui aluna na Turma 16 de Back-End no Desenvolvimento Web da 
 <br>Reprograma e atualmente faço parte da turma 61 de Pessoa
