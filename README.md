@@ -1,5 +1,4 @@
-<img src="element1.png" alt="drawing" width="500"/>
-<h1 align="right"> Lia Laurindo </h1>
+<img src="element3.png" alt="drawing" width="280"/> <h1 align="right"> Lia Laurindo </h1>
  
  <div align="right">
   <a href="https://www.linkedin.com/in/lialaurindo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -14,6 +13,9 @@
 
 </p>
 <br>
+
+<div align="right">
+  <a href="https://github.com/lialaurindo"> <img align ="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=lialaurindo&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&text_color=FFFAFA&title_color=FFFAFA"/> <img align ="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lialaurindo&layout=compact&langs_count=7&theme=merko&hide_border=true&bg_color=000000&text_color=FFFAFA&title_color=FFFAFA"/>
 <div align="right">
   
 ![wit](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
@@ -24,10 +26,6 @@
 ![Spring](https://img.shields.io/badge/spring-000000.svg?style=for-the-badge&logo=spring&logoColor=white)
   
  </div>
-
-<div align="right">
-  <a href="https://github.com/lialaurindo"> <img align ="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=lialaurindo&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&text_color=FFFAFA&title_color=FFFAFA"/> <img align ="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lialaurindo&layout=compact&langs_count=7&theme=merko&hide_border=true&bg_color=000000&text_color=FFFAFA&title_color=FFFAFA"/>
-
     
 </div>
   
@@ -43,4 +41,4 @@
   <h3 align="right"> <b><i> e ainda </i></b></h3>
 
 
- <img align="right" src="element2.gif" alt="drawing" width="400" height="200"/><img align="right" src="element2.gif" alt="drawing" width="400" height="200"/>
+<img align="right" src="element14.png" alt="drawing" width="250"/>
