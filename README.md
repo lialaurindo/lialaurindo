@@ -1,11 +1,11 @@
-<img src="element3.png" alt="drawing" width="280"/> <h1 align="right"> Lia Laurindo </h1>
+<img src="element3.png" alt="drawing" width="280"/> <h1 align="center"> Lia Laurindo </h1>
  
- <div align="right">
+ <div align="center">
   <a href="https://www.linkedin.com/in/lialaurindo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:liamaralaurindo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<p align="right"> 
+<p align="center"> 
 <br>Graduanda em Análise e Desenvolvimento de Sistemas e também me aplico aos
 <br> estudos de programação para Back-End. Fui aluna na Turma 16 de Back-End no
 <br> Desenvolvimento Web da <a href=https://reprograma.com.br/todas-em-tech.html>Reprograma</a> e atualmente faço parte da turma 61 de
@@ -14,9 +14,9 @@
 </p>
 <br>
 
-<div align="right">
+<div align="center">
   <a href="https://github.com/lialaurindo"> <img align ="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=lialaurindo&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&text_color=FFFAFA&title_color=FFFAFA"/> <img align ="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lialaurindo&layout=compact&langs_count=7&theme=merko&hide_border=true&bg_color=000000&text_color=FFFAFA&title_color=FFFAFA"/>
-<div align="right">
+<div align="center">
   
 ![wit](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
 ![wit](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
