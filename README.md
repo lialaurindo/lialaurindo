@@ -33,6 +33,9 @@
   
 <br>
  
+ <img align="right" src="element14.png" alt="drawing" width="230"/>
+ 
+ 
  ##
   <h3 align="left"> <b><i> Somos o código do tempo </i></b></h3>
 
@@ -44,4 +47,4 @@
  
 ##
 
-<img align="right" src="element14.png" alt="drawing" width="230"/>
+
