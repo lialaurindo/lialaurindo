@@ -1,6 +1,4 @@
-<h1 align="center"> <img align = "left" src="element3.png" alt="drawing" width="250"/> Lia Laurindo  </h1>
-
-
+ <h1 align="center"> <img align="left" src="element3.png" alt="drawing" width="250"/> Lia Laurindo </h1>
  
  <div align="center">
   <a href="https://www.linkedin.com/in/lialaurindo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -33,5 +31,16 @@
 </div>
   
 <br>
-<br>
+ 
+ ##
+  <h3 align="left"> <b><i> Somos o código do tempo </i></b></h3>
+
+ ##
+<h3 align="center"> <b><i> e além </i></b></h3>
+
+ ##
+  <h3 align="right"> <b><i> e ainda </i></b></h3>
+ 
+##
+
 <img align="right" src="element14.png" alt="drawing" width="230"/>
