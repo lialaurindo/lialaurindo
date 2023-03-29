@@ -15,18 +15,19 @@
 <br>
 
 <div align="center">
- <div align="center">
-  
+ 
 ![wit](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
 ![wit](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ <br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-000000.svg?style=for-the-badge&logo=spring&logoColor=white)
   
  </div>
+ 
+ <div align= "right">
   <a href="https://github.com/lialaurindo"> <img align ="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=lialaurindo&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&text_color=FFFAFA&title_color=FFFAFA"/> <img align ="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lialaurindo&layout=compact&langs_count=7&theme=merko&hide_border=true&bg_color=000000&text_color=FFFAFA&title_color=FFFAFA"/>
-
     
 </div>
   
