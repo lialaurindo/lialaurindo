@@ -33,7 +33,7 @@
   
 <br>
  
- <img align="left" src="element14.png" alt="drawing" width="230"/>
+ <img align="left" src="element14.png" alt="drawing" width="210"/>
  
  
  ##
