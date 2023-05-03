@@ -43,7 +43,7 @@
 <h4 align="center"> <b><i> e além </i></b></h4>
 
  ##
-  <h4 align="right"> <b><i> e ainda </i></b></h4>
+  <h4 align="right"> <b><i> e ainda. </i></b></h4>
  
 ##
 
