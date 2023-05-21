@@ -7,8 +7,8 @@
 
 <p align="center"> 
 <br>Graduanda em Análise e Desenvolvimento de Sistemas e também me aplico aos
-<br> estudos de programação para Back-End. Fui aluna na Turma 16 de Back-End no
-<br> Desenvolvimento Web da <a href=https://reprograma.com.br/todas-em-tech.html>Reprograma</a> e atualmente faço parte da turma 61 de
+<br> estudos de programação para Back-End. Fui aluna na Turma de Back-End no
+<br> Desenvolvimento Web da <a href=https://reprograma.com.br/todas-em-tech.html>Reprograma</a> e também na turma de
 <br> Pessoa Desenvolvedora FullStack Java da <a href=https://brazil.generation.org>Generation Brasil</a>.
 
 </p>
