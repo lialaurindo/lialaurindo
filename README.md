@@ -16,13 +16,13 @@
 
 <div align="center">
  
+![wit](https://img.shields.io/badge/Amazon_AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=8B0000)
 ![wit](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=8B0000)
-![wit](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=8B0000)
-![MySQL](https://img.shields.io/badge/mysql-0d1117.svg?style=for-the-badge&logo=mysql&logoColor=8B0000)
+![Spring](https://img.shields.io/badge/spring-0d1117.svg?style=for-the-badge&logo=spring&logoColor=8B0000)
+![NodeJS](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=8B0000)
  <br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117.svg?style=for-the-badge&logo=mongodb&logoColor=8B0000)
-![NodeJS](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=8B0000)
-![Spring](https://img.shields.io/badge/spring-0d1117.svg?style=for-the-badge&logo=spring&logoColor=8B0000)
+![MySQL](https://img.shields.io/badge/mysql-0d1117.svg?style=for-the-badge&logo=mysql&logoColor=8B0000)
   
  </div>
  
