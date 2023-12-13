@@ -21,7 +21,7 @@
  </div>
  
 <div align= "center">
-<a href="https://github.com/lialaurindo"> <img align ="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=lialaurindo&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=8B0000&title_color=8B0000"/> <img align ="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lialaurindo&layout=compact&langs_count=7&theme=merko&hide_border=true&bg_color=0d1117&text_color=8B0000&title_color=8B0000"/>
+<a href="https://github.com/lialaurindo"> <img align ="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=lialaurindo&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=8B0000&title_color=8B0000"/><img align ="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lialaurindo&layout=compact&langs_count=7&theme=merko&hide_border=true&bg_color=0d1117&text_color=8B0000&title_color=8B0000"/>
 </div>
   
 <br>
