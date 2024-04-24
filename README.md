@@ -40,5 +40,3 @@
   <h4 align="right"> <b><i> e ainda. </i></b></h4>
  
 ##
-
-
