@@ -1,4 +1,4 @@
- <h1 align="center"> <img align="left" src="element3.png" alt="drawing" width="250"/> Lia Laurindo </h1>
+ <h1 align="center"> <img align="left" src="element3.png" alt="drawing" width="250"/> Lia </h1>
  <!--
  <div align="center">
   <a href="https://www.linkedin.com/in/lialaurindo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8B0000" target="_blank"></a>
